@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Shawn S. Mazdeyasnan"
+  title: ""
   navbar:
     left:
       - href: index.qmd
