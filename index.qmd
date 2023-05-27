@@ -1,8 +1,8 @@
 ---
-title: "shawnmazdey.github.io"
+title: " "
 ---
 
-This is a Quarto website.
+### Welcome!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
