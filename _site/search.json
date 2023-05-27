@@ -4,12 +4,19 @@
     "href": "index.html",
     "title": "Shawn S. Mazdeyasnan",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
