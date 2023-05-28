@@ -2,4 +2,4 @@
 title: ""
 ---
 
-<embed src="https://shawnmazdey.github.io/Voutour_Shawn_CV_(May_2023).pdf" width="100%" height="850px"/>
+<embed src="https://shawnmazdey.github.io/docs/Voutour_Shawn_CV_(May_2023).pdf" width="100%" height="850px"/>
