@@ -12,12 +12,13 @@ website:
         text: CV
       - href: research.qmd
         text: Research
-    tools:
+    right:
       - icon: twitter
         href: https://twitter.com/ShawnVoutour
       - icon: github
-        href: https://github.com/shawnmazdey/shawnmazdey.github.io
+        href: https://github.com/shawnmazdey
   search: false
+  page-footer: "Copyright © 2023 - Shawn S. Voutour"
       
 
 format:
