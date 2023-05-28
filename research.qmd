@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-About this site
+#### Works in Progress
 
-```{r}
-1 + 1
-```
+"Do Ethnic Wars or Secessionist Wars Produce More Indiscriminate Violence?: An Analysis" (Working Paper)
