@@ -12,6 +12,8 @@ website:
         text: CV
       - href: research.qmd
         text: Research
+    right:
+      - icon: github
   search: false
       
 
