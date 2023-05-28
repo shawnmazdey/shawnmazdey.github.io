@@ -12,6 +12,7 @@ website:
         text: CV
       - href: research.qmd
         text: Research
+  search: false
       
 
 format:
