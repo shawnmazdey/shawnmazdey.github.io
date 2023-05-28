@@ -2,4 +2,6 @@
 title: ""
 ---
 
-<embed src="docs/Voutour_Shawn_CV_(May_2023).pdf" width="100%" height="850px"/>
+<center>
+<embed src="docs/Voutour_Shawn_CV.pdf" width="80%" height="700px"/>
+</center>
