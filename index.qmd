@@ -1,5 +1,10 @@
 ---
 title: ""
+image: docs/Voutour_Shawn_Head_Shot.JPG
+about:
+  template: trestles
+  image-shape: round
+  image-width: 23em
 ---
 
 Welcome!

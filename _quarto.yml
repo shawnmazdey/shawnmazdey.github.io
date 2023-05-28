@@ -18,7 +18,8 @@ website:
       - icon: github
         href: https://github.com/shawnmazdey
   search: false
-  page-footer: "Copyright © 2023 - Shawn S. Voutour"
+  page-footer:
+    left: "Copyright © 2023 - Shawn S. Voutour"
       
 
 format:
