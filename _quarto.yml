@@ -12,8 +12,11 @@ website:
         text: CV
       - href: research.qmd
         text: Research
-    right:
+    tools:
+      - icon: twitter
+        href: https://twitter.com/ShawnVoutour
       - icon: github
+        href: https://github.com/shawnmazdey/shawnmazdey.github.io
   search: false
       
 
