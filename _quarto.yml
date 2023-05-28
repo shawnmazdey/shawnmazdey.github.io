@@ -27,6 +27,7 @@ format:
     theme: darkly
     css: styles.css
     toc: false
+    page-layout: full
 
 
 
