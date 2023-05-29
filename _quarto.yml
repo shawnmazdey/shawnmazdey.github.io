@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Shawn S. Voutour"
+  favicon: docs/favicon.png
   navbar:
     background: "#777777"
     left:
