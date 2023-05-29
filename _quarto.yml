@@ -5,6 +5,7 @@ project:
 website:
   title: "Shawn S. Voutour"
   navbar:
+    background: "#777777"
     left:
       - href: index.qmd
         text: Home
@@ -12,7 +13,13 @@ website:
         text: CV
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: contact.qmd
+        text: Contact
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shawn-voutour/
       - icon: twitter
         href: https://twitter.com/ShawnVoutour
       - icon: github
@@ -25,10 +32,15 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
     toc: false
-    page-layout: full
+    grid:
+      sidebar-width: 25px
+      margin-width: 25px
+      body-width: 800px
 
 
 
