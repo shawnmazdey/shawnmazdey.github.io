@@ -29,6 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -121,31 +122,28 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <div class="about-contents"><main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+
+
 <section id="contact" class="level3">
-<h3 data-anchor-id="contact">Contact</h3>
+<h3 class="anchored" data-anchor-id="contact">Contact</h3>
 <p>Email: <a href="mailto:shawn.voutour@uga.edu">shawn.voutour@uga.edu</a></p>
+<div style="float: right; position: relative; top: -80px;">
+<p><img src="docs/IMG_0468.PNG" class="img-fluid" style="width:4in"></p>
+</div>
 <p>Address:<br>
 c/o Shawn S. Voutour<br>
 School of Public and International Affairs<br>
 The University of Georgia<br>
 204 Candler Hall<br>
 Athens, GA 30602<br>
-<br>
 </p>
 
 
 </section>
-</main></div>
-    </div>
-    <img src="docs/IMG_0468.PNG" class="about-image
-  rounded " style="width: 25em;">
-  </div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -281,6 +279,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

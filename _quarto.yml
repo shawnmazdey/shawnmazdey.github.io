@@ -37,10 +37,6 @@ format:
       light: flatly
     css: styles.css
     toc: false
-    grid:
-      sidebar-width: 25px
-      margin-width: 25px
-      body-width: 800px
 
 
 

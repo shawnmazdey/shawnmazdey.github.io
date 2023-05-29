@@ -1,15 +1,14 @@
 ---
 title: ""
-image: docs/IMG_0468.PNG
-about:
-  template: solana
-  image-width: 25em
-  image-shape: rounded
 ---
 
 ### Contact
 
 Email: [shawn.voutour\@uga.edu](mailto:shawn.voutour@uga.edu)
+
+<div style="float: right; position: relative; top: -80px;">
+![](docs/IMG_0468.PNG){width=4in}
+</div>
 
 Address:\
 c/o Shawn S. Voutour\
@@ -17,4 +16,3 @@ School of Public and International Affairs\
 The University of Georgia\
 204 Candler Hall\
 Athens, GA 30602\
-\
