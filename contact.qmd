@@ -7,7 +7,7 @@ title: ""
 Email: [shawn.voutour\@uga.edu](mailto:shawn.voutour@uga.edu)
 
 <div style="float: right; position: relative; top: -80px;">
-![](docs/IMG_0468.PNG){width=4in}
+![](images/IMG_0468.PNG){width=4in}
 </div>
 
 Address:\

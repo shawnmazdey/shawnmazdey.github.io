@@ -5,5 +5,5 @@ title: ""
 ### CV
 
 <center>
-<embed src="docs/Voutour_Shawn_CV.pdf" width="100%" height="700px"/>
+<embed src="CV/Voutour_Shawn_CV.pdf" width="100%" height="700px"/>
 </center>
