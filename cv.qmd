@@ -4,7 +4,7 @@ title: ""
 
 ### CV
 <br>
-My CV will render below. If you are viewing from a mobile device, you can find my CV [here](https://shawnmazdey.github.io/CV/Voutour_Shawn_CV.pdf).
+If you are viewing from a mobile device, you can find my CV [here](https://shawnmazdey.github.io/CV/Voutour_Shawn_CV.pdf).
 <br>
 <br>
 <center>
