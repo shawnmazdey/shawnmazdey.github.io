@@ -8,9 +8,12 @@ about:
 ---
 
 Welcome!
-
-I am a Doctoral student studying Political Science and International Affairs at the University of Georgia. My major field is in International Relations, while my minor field is in Political Methodology. My third field is in Comparative Politics.
-
+<br>
+<br>
+I am a Doctoral student studying Political Science and International Affairs at the University of Georgia. My major field is International Relations, while my minor field is Political Methodology. My third field is Comparative Politics.
+<br>
+<br>
 Prior to enrolling at the University of Georgia, I earned my Master of Arts in Political Science with an Emphasis in International Relations and Comparative Politics from San Diego State University in May 2018. Before that, I earned my Bachelor of Arts in International Security and Conflict Resolution with a Concentration in Cooperation, Conflict, and Conflict Resolution from San Diego State University in May 2014. Additionally, I minored in Islamic and Arabic Studies.
-
+<br>
+<br>
 My research interests include the intersection of human rights with international law, and with international criminal courts and tribunals. Additionally, I am interested in the relationship between levels of nationalism and respect for human rights. Finally, I have an interest in intrastate armed conflict, how indiscriminate violence is utilized, and how levels of indiscriminate violence may vary according to conflict type.
