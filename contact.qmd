@@ -3,7 +3,7 @@ title: ""
 ---
 
 ### Contact
-
+<br>
 Email: [shawn.voutour\@uga.edu](mailto:shawn.voutour@uga.edu)
 
 <div style="float: right; position: relative; top: -80px;">

@@ -36,6 +36,7 @@ format:
     theme:
       dark: darkly
       light: flatly
+    linkcolor: "#777777"
     css: styles.css
     toc: false
 
