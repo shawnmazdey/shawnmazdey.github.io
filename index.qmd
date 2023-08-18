@@ -1,6 +1,6 @@
 ---
 title: ""
-image: images/Voutour_Shawn_Head_Shot.JPG
+image: images/Headshot.jpg
 about:
   template: trestles
   image-shape: round
