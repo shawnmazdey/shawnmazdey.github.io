@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  14 SEP 2023 12:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  4 DEC 2023 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,17 +507,23 @@ cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }] [3] (./Voutour_Shawn_CV.aux)
-Package rerunfilecheck Info: File `Voutour_Shawn_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 61DEF9E70E5DC99AF77A3D42D53F1518;1635.
+
+Package rerunfilecheck Warning: File `Voutour_Shawn_CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Voutour_Shawn_CV.out':
+(rerunfilecheck)             Before: 61DEF9E70E5DC99AF77A3D42D53F1518;1635
+(rerunfilecheck)             After:  C2FEBB3520795BBF2B76995C5339193D;1702.
  ) 
 Here is how much of TeX's memory you used:
- 13802 strings out of 476025
- 239300 string characters out of 5790017
- 1868388 words of memory out of 5000000
+ 13803 strings out of 476025
+ 239310 string characters out of 5790017
+ 1867388 words of memory out of 5000000
  34074 multiletter control sequences out of 15000+600000
  518209 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,67p,1205b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,11n,67p,1205b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fo
 ntawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts
@@ -531,10 +537,10 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Voutour_Shawn_CV.pdf (3 pages, 174050 bytes).
+Output written on Voutour_Shawn_CV.pdf (3 pages, 174108 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 14 named destinations out of 1000 (max. 500000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 15 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
