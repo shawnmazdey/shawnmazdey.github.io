@@ -2,19 +2,19 @@
 title: ""
 ---
 
-### Teaching
+## Teaching
 
 #### University of Georgia
 
 ##### *Department of International Affairs*
 
--   Teaching Assistant, INTL 3200 Introduction to International Relations
+-   Graduate Teaching Assistant, INTL 3200 Introduction to International Relations
 
     -   Dr. Maryann Gallagher (Fall 2023, Spring 2023, Fall 2022)
 
     -   Dr. Gulçan Saglam (Spring 2023)
 
--   Teaching Assistant, INTL 4630 Population, Immigration, and Politics
+-   Graduate Teaching Assistant, INTL 4630 Population, Immigration, and Politics
 
     -   Dr. Gulçan Saglam (Spring 2023) <br> <br>
 
@@ -22,31 +22,31 @@ title: ""
 
 ##### *Department of International Security and Conflict Resolution (ISCOR)*
 
--   Teaching Assistant, ISCOR 200 Introduction to ISCOR
+-   Undergraduate/Graduate Teaching Assistant, ISCOR 200 Introduction to ISCOR
 
     -   Dr. G. Allen Greb (Fall 2016, Fall 2014)
 
--   Teaching Assistant, ISCOR 300 Global Systems
+-   Graduate Teaching Assistant, ISCOR 300 Global Systems
 
     -   Dr. G. Allen Greb (Spring 2015)
 
--   Teaching Assistant, ISCOR 310 Our Global Future
+-   Graduate Teaching Assistant, ISCOR 310 Our Global Future
 
     -   Dr. David Larom (Spring 2017)
 
--   Teaching Assistant, ISCOR 320 International Security in the Nuclear Age
+-   Undergraduate/Graduate Teaching Assistant, ISCOR 320 International Security in the Nuclear Age
 
     -   Dr. G. Allen Greb (Spring 2018, Fall 2017, Spring 2017, Spring 2016, Fall 2015, Spring 2014, Spring 2013) <br> <br>
 
 ##### *Department of Political Science*
 
--   Teaching Assistant, POLS 101 Introduction to American Politics in Global Perspective
+-   Graduate Teaching Assistant, POLS 101 Introduction to American Politics in Global Perspective
 
     -   Dr. J.T. Smith (Fall 2017, Spring 2017)
 
     -   John Mercurio, M.A. (Spring 2017, Fall 2016)
 
--   Teaching Assistant, POLS 102 Introduction to American and California Government and Politics
+-   Graduate Teaching Assistant, POLS 102 Introduction to American and California Government and Politics
 
     -   Dr. J.T. Smith (Spring 2018, Fall 2017)
 
@@ -54,6 +54,6 @@ title: ""
 
     -   Dr. Carole Kennedy (Spring 2016, Fall 2015)
 
--   Teaching Assistant, POLS 375 Introduction to International Relations
+-   Graduate Teaching Assistant, POLS 375 Introduction to International Relations
 
     -   Dr. G. Allen Greb (Fall 2013, Fall 2012)
