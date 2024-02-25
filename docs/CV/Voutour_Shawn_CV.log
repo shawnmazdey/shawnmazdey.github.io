@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  18 FEB 2024 20:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  25 FEB 2024 15:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,8 +507,14 @@ cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
 [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }] [3] (./Voutour_Shawn_CV.aux)
-Package rerunfilecheck Info: File `Voutour_Shawn_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 9C66140353C4A6AFC1AEB60EAB31A15E;1845.
+
+Package rerunfilecheck Warning: File `Voutour_Shawn_CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Voutour_Shawn_CV.out':
+(rerunfilecheck)             Before: 9C66140353C4A6AFC1AEB60EAB31A15E;1845
+(rerunfilecheck)             After:  D455B4D9418ED363ACA5B9D41C7FF30A;1830.
  ) 
 Here is how much of TeX's memory you used:
  13806 strings out of 476025
@@ -531,7 +537,7 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Voutour_Shawn_CV.pdf (3 pages, 176658 bytes).
+Output written on Voutour_Shawn_CV.pdf (3 pages, 176352 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
