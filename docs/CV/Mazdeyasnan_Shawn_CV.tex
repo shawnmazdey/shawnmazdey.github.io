@@ -1,0 +1,406 @@
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+%	The MIT License (MIT)
+%
+%	Copyright (c) 2021 Jitin Nair
+%
+%	Permission is hereby granted, free of charge, to any person obtaining a copy
+%	of this software and associated documentation files (the "Software"), to deal
+%	in the Software without restriction, including without limitation the rights
+%	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+%	copies of the Software, and to permit persons to whom the Software is
+%	furnished to do so, subject to the following conditions:
+%	
+%	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+%	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+%	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+%	AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+%	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+%	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+%	THE SOFTWARE.
+%	
+%
+%-----------------------------------------------------------------------------------------------------------------------------------------------%
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT DEFINITION
+%----------------------------------------------------------------------------------------
+
+% article class because we want to fully customize the page and not use a cv template
+\documentclass[letterpaper,12pt]{article}
+
+%----------------------------------------------------------------------------------------
+%	FONT
+%----------------------------------------------------------------------------------------
+
+% % fontspec allows you to use TTF/OTF fonts directly
+% \usepackage{fontspec}
+% \defaultfontfeatures{Ligatures=TeX}
+
+% % modified for ShareLaTeX use
+% \setmainfont[
+% SmallCapsFont = Fontin-SmallCaps.otf,
+% BoldFont = Fontin-Bold.otf,
+% ItalicFont = Fontin-Italic.otf
+% ]
+% {Fontin.otf}
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES
+%----------------------------------------------------------------------------------------
+\usepackage{url}
+\usepackage{parskip} 	
+
+%other packages for formatting
+\RequirePackage{color}
+\RequirePackage{graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[scale=0.9]{geometry}
+
+%tabular environment
+\usepackage{tabularx}
+
+%for lists within experience section
+\usepackage{enumitem}
+
+% centered version of 'X' col. type
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+%to prevent spillover of tabular into next pages
+\usepackage{supertabular}
+\usepackage{tabularx}
+\newlength{\fullcollw}
+
+
+%custom \section
+\usepackage{titlesec}				
+\usepackage{multicol}
+\usepackage{multirow}
+
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{10pt}
+
+%for publications
+%\usepackage[style=authoryear,sorting=ynt, maxbibnames=2]{biblatex}
+
+%Setup hyperref package, and colours for links
+\usepackage[unicode, draft=false]{hyperref}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
+%\addbibresource{citations.bib}
+%\setlength\bibitemsep{1em}
+
+%for social icons
+\usepackage{fontawesome5}
+
+
+%debug page outer frames
+%\usepackage{showframe}
+
+\newenvironment{list1}{
+  \begin{list}{}{
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0in}}}{\end{list}}
+
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.5in}}}{\end{list}}
+
+%----------------------------------------------------------------------------------------
+%	BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+% non-numbered pages
+\pagestyle{plain} 
+
+%----------------------------------------------------------------------------------------
+%	TITLE
+%----------------------------------------------------------------------------------------
+
+% \begin{tabularx}{\linewidth}{ @{}X X@{} }
+% \huge{Your Name}\vspace{2pt} & \hfill \emoji{incoming-envelope} email@email.com \\
+% \raisebox{-0.05\height}\faGithub\ username \ | \
+% \raisebox{-0.00\height}\faLinkedin\ username \ | \ \raisebox{-0.05\height}\faGlobe \ mysite.com  & \hfill \emoji{calling} number
+% \end{tabularx}
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{Shawn S. Mazdeyasnan} \\
+\Large{(né Voutour)} \\[1pt]\\
+\href{https://github.com/shawnmazdey}{\raisebox{-0.05\height}\faGithub\ shawnmazdey} \ $|$ \ 
+\href{https://shawnmazdey.github.io}{\raisebox{-0.05\height}\faGlobe \ shawnmazdey.github.io} \ $|$ \ 
+\href{mailto:ssv86618@uga.edu}{\raisebox{-0.05\height}\faEnvelope \ shawn.mazdeyasnan@uga.edu} \ $|$ \ 
+\href{tel:+018589524835}{\raisebox{-0.05\height}\faMobile \ 858.952.4835} \\
+\end{tabularx}
+\par
+\begin{center}
+\footnotesize Updated: \today
+\end{center}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+{\bf Ph.D., Political Science and International Affairs} \hfill {\bf Expected May 2027}
+\begin{list1} 
+\item University of Georgia, Athens, Georgia USA
+\item Major Field: International Relations
+\item Minor Field: Political Methodology
+\item Third Field: Comparative Politics
+%\begin{list2}
+%\vspace*{.05in}
+%\item Dissertation Committee:  
+%\end{list2}
+\end{list1}
+\par
+{\bf M.A., Political Science} \hfill {\bf May 2018}
+\begin{list1} 
+\item San Diego State University, San Diego, California USA
+\item Emphasis: International Relations and Comparative Politics
+\end{list1}
+\par
+{\bf B.A., International Security and Conflict Resolution (ISCOR)} \hfill {\bf May 2014}
+\begin{list1} 
+\item San Diego State University, San Diego, California USA
+\item \textbf{\textit{cum laude}, $\Phi$BK}
+\item Specialization: Cooperation, Conflict, and Conflict Resolution
+\item Minor: Islamic and Arabic Studies
+\end{list1}
+
+%----------------------------------------------------------------------------------------
+%	Research Experience
+%----------------------------------------------------------------------------------------
+\section{Research Experience}
+\textbf{University of Georgia}\\
+\textit{Department of International Affairs Graduate Research Assistant:}
+\begin{list2}
+    \item Supervisor: Dr. Jeffrey Berejikian: Summer 2024; Spring 2024; Fall 2023; Fall 2022
+\end{list2}
+\par
+\textit{Center for the Study of Global Issues (GLOBIS) Graduate Research Assistant:}
+\begin{list2}
+    \item Supervisor: Dr. K Chad Clay: Spring 2024; Fall 2023; Summer 2023; Spring 2023
+\end{list2}
+\par
+\textbf{Human Rights Measurement Initiative (HRMI)}\\
+\textit{Research Assistant:}
+\begin{list2}
+    \item Supervisor: Dr. K Chad Clay: Spring 2024; Fall 2023; Summer 2023; Spring 2023
+\end{list2}
+
+%----------------------------------------------------------------------------------------
+%	Teaching Experience
+%----------------------------------------------------------------------------------------
+\section{Teaching Experience}
+\textbf{University of Michigan}\\
+\textit{ICPSR Summer Program Teaching Assistant:}
+\begin{list2}
+    \item Maximum Likelihood Estimation II: Advanced topics
+        \begin{itemize}
+            \item[--] Dr. Desmond Wallace: Summer 2024
+        \end{itemize}
+\end{list2}
+\par
+\textbf{University of Georgia}\\
+\textit{Department of International Affairs Graduate Teaching Assistant:}
+\begin{list2}
+    \item INTL 3200 Introduction to International Relations (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. Maryann Gallagher: Fall 2023; Spring 2023; Fall 2022
+            \item[--] Dr. Gulçan Saglam: Spring 2023
+        \end{itemize}
+     \item INTL 4630 Population, Immigration, and Politics (Undergraduate)
+         \begin{itemize}
+            \item[--] Dr. Gulçan Saglam: Spring 2023
+         \end{itemize}
+\end{list2}
+\par
+\textbf{San Diego State University}\\
+\textit{Department of Political Science Undergraduate and Graduate Teaching Assistant:}
+\begin{list2}
+    \item POLS 101 Introduction to American Politics in Global Perspective (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. J.T. Smith: Fall 2017; Spring 2017
+            \item[--] John Mercurio, M.A.: Spring 2017; Fall 2016
+        \end{itemize}
+    \item POLS 102 Introduction to American and California Government and Politics (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. J.T. Smith: Spring 2018; Fall 2017
+            \item[--] John Mercurio, M.A.: Spring 2017; Fall 2016; Spring 2016; Fall 2015
+            \item[--] Dr. Carole Kennedy: Spring 2016; Fall 2015
+        \end{itemize}
+    \item POLS 375 Introduction to International Relations (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. G. Allen Greb: Fall 2013; Fall 2012
+        \end{itemize}
+\end{list2}
+\par
+\textit{Department of ISCOR Undergraduate and Graduate Teaching Assistant:}
+\begin{list2}
+    \item ISCOR 200 Introduction to ISCOR (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. G. Allen Greb: Fall 2016; Fall 2014
+        \end{itemize}
+    \item ISCOR 300 Global Systems (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. G. Allen Greb: Spring 2015
+        \end{itemize}
+    \item ISCOR 310 Our Global Future (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. David Larom: Spring 2017
+        \end{itemize}
+    \item ISCOR 320 International Security in the Nuclear Age (Undergraduate)
+        \begin{itemize}
+            \item[--] Dr. G. Allen Greb: Spring 2018; Fall 2017; Spring 2017; Spring 2016; Fall 2015; Spring 2014; Spring 2013
+        \end{itemize}
+\end{list2}
+
+%----------------------------------------------------------------------------------------
+%	Conference and Colloquium Participation
+%----------------------------------------------------------------------------------------
+\section{Conference and Colloquium Participation}
+\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+\textbf{2024} &  \textbf{Panel Discussant}, "Terrorism and Conflict: Strategies and Mitigating Factors," School of Public and International Affairs Undergraduate Research Colloquium, University of Georgia, April 19.\\ 
+\textbf{2023} &  \textbf{Panel Discussant}, "Contemporary Security Issues: Sanctions, Immigration, and Sexual \mbox{Violence} in Conflict," School of Public and International Affairs Undergraduate Research \mbox{Colloquium,} University of Georgia, April 14.\\ 
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Honors, Awards, Scholarships, and Fellowships
+%----------------------------------------------------------------------------------------
+\section{Honors, Awards, Scholarships, and Fellowships}
+\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+\textbf{2024}          & \textbf{Academic Grant}, Sawtooth Software (\$4900)\\
+\textbf{2023}          & \textbf{Scholarship for Political Science Research}, ICPSR Summer Program, University of \mbox{Michigan} (\$2600)\\
+\textbf{2022-2023} & \textbf{Graduate Student Research Grant}, Department of International Affairs, University of Georgia (\$2500)\\
+\textbf{2022-2027} & \textbf{University Graduate Assistantship}, University of Georgia\\
+\textbf{2022-2027} & \textbf{Full Tuition Scholarship}, University of Georgia\\
+\textbf{2022-2023} & \textbf{Earl F. Ziemke Graduate Fellowship}, University of Georgia (\$3000)\\
+\textbf{2015-2016} & \textbf{Terhune Fellowship}, Department of Political Science, San Diego State University (\$3000)\\
+\textbf{2012}          & \textbf{John and Jane Adams Endowment for the Humanities Scholarship}, San Diego State University (\$500)\\
+\textbf{2011-2013} & \textbf{Dean's List Honors}, College of Arts and Letters, San Diego State University
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Methods Training
+%----------------------------------------------------------------------------------------
+\section{Methodological Training}
+\begin{minipage}{\linewidth}
+\textbf{University of Georgia}
+\par
+\begin{list2}
+    \item 2024: Computational Data Analysis; Applied Bayesian Modeling
+    \item 2023: Ordinary Least Squares (OLS); Text as Data; Maximum Likelihood Estimation (MLE)
+    \item 2022: Research Design; Introduction to Political Methodology
+\end{list2}
+\par
+%\begin{minipage}{\linewidth}
+\textbf{Inter-University Consortium for Political and Social Research (ICPSR) Summer Program}
+\par
+\begin{list2}
+    \item 2024: Bayesian Modeling II; Causal Inference II; Maximum Likelihood Estimation (MLE) II; Time Series Analysis II
+    \item 2023: Machine Learning; Multilevel Models I; Regression Analysis III; Time Series Analysis I
+\end{list2}
+%\end{minipage}
+\par
+\textbf{San Diego State University}
+\par
+\begin{list2}
+    \item 2016: Research Design and Analysis
+    \item 2015: Scope and Methods of Political Science
+\end{list2}
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+%	Pedagogical Training
+%----------------------------------------------------------------------------------------
+\section{Pedagogical Training}
+\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+\textbf{2024} &  \textbf{Shaping the Future of Learning: Active Learning in Higher Education}, 2nd Annual Active Learning Summit, University of Georgia, February 15-16.\\
+\textbf{2023} &  \textbf{Early Career Scholar Training in Active Learning Strategies}, Department of \mbox{International} Affairs, University of Georgia, May 10.
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Skills
+%----------------------------------------------------------------------------------------
+\section{Skills}
+\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+\textbf{Software} &  R, \LaTeX, Stata (beginner)\\
+\textbf{Languages} & Arabic (beginner)
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Professional & Honor Society Memberships
+%----------------------------------------------------------------------------------------
+\section{Professional and Honor Society Membership}
+\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+\textbf{2023} &  \textbf{Peace Science Society (International)}\\
+\textbf{2023} & \textbf{SouthEastern Rights Network (SERN)}, \textit{formerly Georgia Area Human Rights Network (GAHRNet)}\\
+\textbf{2014} &  \textbf{Phi Beta Kappa Honor Society}, San Diego State University\\
+\textbf{2012} &  \textbf{Golden Key International Honour Society}, San Diego State University\\
+\textbf{2011} &  \textbf{Sigma Alpha Lambda National Leadership and Honors Organization}, San Diego State University
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Honor Society Memberships
+%----------------------------------------------------------------------------------------
+%\section{Honor Society Membership}
+%\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+%
+%\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Service
+%----------------------------------------------------------------------------------------
+\section{Service}
+\textbf{University of Georgia}\\
+\textit{To the University:}
+\begin{list2}
+     \item 2024
+         \begin{itemize}
+             \item[--] Judge, Intrasociety Debate, Phi Kappa Literary Society, April 25.
+         \end{itemize}
+\end{list2}
+\par
+\textit{To the School of Public and International Affairs:}
+\begin{list2}
+    \item 2024
+        \begin{itemize}
+            \item[--] Participant, "Ask a Grad Student" Panel, Departments of Political Science and International Affairs Visit Day, March 1.
+        \end{itemize}
+\end{list2}
+
+%----------------------------------------------------------------------------------------
+%	Event Attendance
+%----------------------------------------------------------------------------------------
+\section{Event Attendance}
+\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+\textbf{2024} &  \textbf{SouthEastern Rights Network Spring Workshop}, Georgia State University, May 3.\\
+                     &  \textbf{Conference on Measuring and Predicting Political Violence}, University of Georgia, April 24-25.\\
+                     &  \textbf{HRMI Spring 2024 Team Retreat}, University of Georgia, February 25-28.\\
+\textbf{2023} &  \textbf{SouthEastern Rights Network Fall Workshop}, Emory University, December 1.\\
+                     &  \textbf{Data Visualization and Presentation Workshop}, University of Georgia, May 15.\\
+                     &  \textbf{SouthEastern Rights Network Spring Workshop}, University of Georgia, May 5.
+\end{tabularx}
+
+%----------------------------------------------------------------------------------------
+%	Other Activities
+%----------------------------------------------------------------------------------------
+%\section{Other Activities}
+%\begin{tabularx}{\dimexpr\textwidth-0in}{p{.85in}X}
+%\textbf{2016-2017} &  \textbf{Baritone Section Leader}, San Diego State University Marching Aztecs\\
+%\textbf{2013-2014} &  \textbf{Intern}, San Diego World Affairs Council\\
+%\textbf{2013}          &  \textbf{Volunteer Youth Soccer Coach}, MCAS Miramar Marine Corps Community Services Child and Youth Programs\\
+%\textbf{2010-2018} &  \textbf{Member}, San Diego State University Marching Aztecs\\
+%\textbf{2009-2015} &  \textbf{Youth Soccer Referee}, MCAS Miramar Marine Corps Community Services Child and Youth Programs
+%\end{tabularx}
+
+
+
+\end{document}
