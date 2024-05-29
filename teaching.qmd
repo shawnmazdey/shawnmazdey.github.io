@@ -4,7 +4,15 @@ title: ""
 
 ## Teaching
 
-#### University of Georgia
+#### [**University of Michigan**]{.underline}
+
+##### *Inter-University Consortium for Social and Political Research (ICPSR) Summer Program*
+
+-   Teaching Assistant, Maximum Likelihood Estimation II
+
+    -   Dr. Desmond Wallace (Summer 2024) <br> <br>
+
+#### [**University of Georgia**]{.underline}
 
 ##### *Department of International Affairs*
 
@@ -18,7 +26,7 @@ title: ""
 
     -   Dr. Gulçan Saglam (Spring 2023) <br> <br>
 
-#### San Diego State University
+#### [**San Diego State University**]{.underline}
 
 ##### *Department of International Security and Conflict Resolution (ISCOR)*
 
