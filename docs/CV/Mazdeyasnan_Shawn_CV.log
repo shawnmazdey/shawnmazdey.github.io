@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  29 JUL 2024 09:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  29 JUL 2024 10:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -513,20 +513,14 @@ cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
 [2] [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
 .enc}] [4] (./Mazdeyasnan_Shawn_CV.aux)
-
-Package rerunfilecheck Warning: File `Mazdeyasnan_Shawn_CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Mazdeyasnan_Shawn_CV.out':
-(rerunfilecheck)             Before: 6DC14BA15EDD14A63BE228C93E187D1A;1830
-(rerunfilecheck)             After:  2F42F229FC3B73FD27EE22893F59678C;1850.
+Package rerunfilecheck Info: File `Mazdeyasnan_Shawn_CV.out' has not changed.
+(rerunfilecheck)             Checksum: 2F42F229FC3B73FD27EE22893F59678C;1850.
  ) 
 Here is how much of TeX's memory you used:
- 13817 strings out of 476025
- 239579 string characters out of 5790017
+ 13814 strings out of 476025
+ 239562 string characters out of 5790017
  1866388 words of memory out of 5000000
- 34086 multiletter control sequences out of 15000+600000
+ 34083 multiletter control sequences out of 15000+600000
  518209 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,11n,67p,1209b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -543,7 +537,7 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Mazdeyasnan_Shawn_CV.pdf (4 pages, 180193 bytes).
+Output written on Mazdeyasnan_Shawn_CV.pdf (4 pages, 180224 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  116 compressed objects within 2 object streams
