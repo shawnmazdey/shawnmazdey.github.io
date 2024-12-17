@@ -4,14 +4,6 @@ title: ""
 
 ## Teaching
 
-#### [**University of Michigan**]{.underline}
-
-##### *Inter-University Consortium for Social and Political Research (ICPSR) Summer Program Teaching Assistant*
-
--   Maximum Likelihood Estimation II
-
-    -   Dr. Desmond Wallace (Summer 2024) <br> <br>
-
 #### [**University of Georgia**]{.underline}
 
 ##### *Department of International Affairs Graduate Teaching Assistant*
@@ -22,9 +14,22 @@ title: ""
 
     -   Dr. Gulçan Saglam (Spring 2023)
 
+-   INTL 4250 American Foreign Policy
+
+    -   Dr. Maryann Gallagher (Spring 2025)
+
 -   INTL 4630 Population, Immigration, and Politics
 
     -   Dr. Gulçan Saglam (Spring 2023) <br> <br>
+
+
+#### [**University of Michigan**]{.underline}
+
+##### *Inter-University Consortium for Social and Political Research (ICPSR) Summer Program Teaching Assistant*
+
+-   Maximum Likelihood Estimation II
+
+    -   Dr. Desmond Wallace (Summer 2024) <br> <br>
 
 #### [**San Diego State University**]{.underline}
 
