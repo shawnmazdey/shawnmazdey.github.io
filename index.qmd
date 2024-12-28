@@ -1,6 +1,6 @@
 ---
 title: ""
-image: images/Formal_Headshot.JPEG
+image: images/Formal_Headshot.png
 about:
   template: trestles
   image-shape: round
