@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  17 DEC 2024 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  8 JAN 2025 12:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,7 +525,7 @@ fd)
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
-Overfull \hbox (2.1417pt too wide) in paragraph at lines 199--200
+Overfull \hbox (2.1417pt too wide) in paragraph at lines 195--196
 []\OT1/cmr/m/n/12 ``Deserving Spe-cial Treat-ment? The Ef-fect of Psy-cho-log-i
 -cal En-ti-tle-ment on Sup-port for []
  []
@@ -536,28 +536,16 @@ Overfull \hbox (2.1417pt too wide) in paragraph at lines 199--200
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/lo
 cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
-[2]
-Underfull \hbox (badness 2368) in paragraph at lines 335--335
-[]|\OT1/cmr/bx/n/12 SPIA Grad-u-ate Stu-dent Con-fer-ence Travel Award\OT1/cmr/
-m/n/12 , School of Pub-lic and
- []
-
-[3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}]
-Underfull \hbox (badness 1389) in paragraph at lines 419--419
-[]|\OT1/cmr/bx/n/12 Participant\OT1/cmr/m/n/12 , "Ask a Grad Stu-dent" Panel, D
-e-part-ments of Po-lit-i-cal Sci-ence and
- []
-
-[4] (./Mazdeyasnan_Shawn_CV.aux)
+[2] [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
+.enc}] [4] [5] (./Mazdeyasnan_Shawn_CV.aux)
 Package rerunfilecheck Info: File `Mazdeyasnan_Shawn_CV.out' has not changed.
 (rerunfilecheck)             Checksum: C4584642778D8828628DF5954F8B5B00;1850.
  ) 
 Here is how much of TeX's memory you used:
- 13992 strings out of 476025
- 242988 string characters out of 5790017
+ 14003 strings out of 476025
+ 243046 string characters out of 5790017
  1867388 words of memory out of 5000000
- 34250 multiletter control sequences out of 15000+600000
+ 34260 multiletter control sequences out of 15000+600000
  518209 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,11n,67p,1209b,606s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -574,10 +562,10 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Mazdeyasnan_Shawn_CV.pdf (4 pages, 181706 bytes).
+Output written on Mazdeyasnan_Shawn_CV.pdf (5 pages, 182792 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
