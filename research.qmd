@@ -7,7 +7,7 @@ title: ""
 ### Peer-Reviewed Articles
 
 <ol reversed>
-<li> Justwan, Florian, Jeffrey Berejikian, and [**Shawn Mazdeyasnan**]{.underline}. 2025. “Deserving Special Treatment? The Effect of Psychological Entitlement on Support for International Law.” *Foreign Policy Analysis*. doi:[10.1093/fpa/oraf004](https://doi.org/10.1093/fpa/oraf004). </li>
+<li> Justwan, Florian, Jeffrey Berejikian, and [**Shawn Mazdeyasnan**]{.underline}. 2025. “Deserving Special Treatment? The Effect of Psychological Entitlement on Support for International Law.” *Foreign Policy Analysis* 21(2). doi:[10.1093/fpa/oraf004](https://doi.org/10.1093/fpa/oraf004). </li>
 </ol>
 
 ```{=html}
