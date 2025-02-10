@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Shawn S. Mazdeyasnan"
-  favicon: images/uga_bulldog.png
+  favicon: external_docs/images/uga_bulldog.png
   navbar:
     background: "#777777"
     left:
@@ -37,6 +37,7 @@ format:
       dark: darkly
       light: flatly
     linkcolor: "#777777"
+    mainfont: Georgia
     css: styles.css
     toc: false
 

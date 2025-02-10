@@ -8,6 +8,6 @@ title: ""
 
 <center>
 
-<embed src="CV/Mazdeyasnan_Shawn_CV.pdf" width="100%" height="700px"/>
+<embed src="external_docs/CV/Mazdeyasnan_Shawn_CV.pdf" width="100%" height="700px"/>
 
 </center>
