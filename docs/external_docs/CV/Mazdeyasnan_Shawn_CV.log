@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  25 MAR 2025 11:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  8 APR 2025 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -530,15 +530,21 @@ fd)
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/lo
 cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
-[2] [3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
-.enc}] [4] [5] [6] (./Mazdeyasnan_Shawn_CV.aux)
+[2]
+Underfull \hbox (badness 1365) in paragraph at lines 352--352
+[]|\OT1/cmr/bx/n/12 Session Con-vener/Moderator\OT1/cmr/m/n/12 , Cen-ter for Un
+-der-grad-u-ate Re-search Op-por-tu-ni-ties
+ []
+
+[3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}] [4] [5] [6] (./Mazdeyasnan_Shawn_CV.aux)
 Package rerunfilecheck Info: File `Mazdeyasnan_Shawn_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D355974A493CABCF99F4B9509FC18CF8;2016.
  ) 
 Here is how much of TeX's memory you used:
  14006 strings out of 476025
  243074 string characters out of 5790017
- 1871388 words of memory out of 5000000
+ 1873388 words of memory out of 5000000
  34261 multiletter control sequences out of 15000+600000
  518209 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -556,7 +562,7 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 184233 bytes).
+Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 184690 bytes).
 PDF statistics:
  167 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
