@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  8 APR 2025 10:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  16 APR 2025 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -531,7 +531,7 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/lo
 cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
 [2]
-Underfull \hbox (badness 1365) in paragraph at lines 352--352
+Underfull \hbox (badness 1365) in paragraph at lines 353--353
 []|\OT1/cmr/bx/n/12 Session Con-vener/Moderator\OT1/cmr/m/n/12 , Cen-ter for Un
 -der-grad-u-ate Re-search Op-por-tu-ni-ties
  []
@@ -562,7 +562,7 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 184690 bytes).
+Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 184976 bytes).
 PDF statistics:
  167 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
