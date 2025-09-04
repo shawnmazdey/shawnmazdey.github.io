@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  26 JUN 2025 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  2 SEP 2025 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -531,24 +531,30 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/lo
 cal/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
 [2]
-Underfull \hbox (badness 1365) in paragraph at lines 351--351
+Underfull \hbox (badness 1005) in paragraph at lines 355--355
+[]|\OT1/cmr/bx/n/12 Presenter\OT1/cmr/m/n/12 , ``When \Never Again" De-pends on
+ Who: Eth-no-cen-trism and Sup-port
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 355--355
 []|\OT1/cmr/bx/n/12 Session Con-vener/Moderator\OT1/cmr/m/n/12 , Cen-ter for Un
 -der-grad-u-ate Re-search Op-por-tu-ni-ties
  []
 
-[3{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}] [4] [5] [6] (./Mazdeyasnan_Shawn_CV.aux)
+[3] [4{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1
+.enc}] [5] [6] (./Mazdeyasnan_Shawn_CV.aux)
 Package rerunfilecheck Info: File `Mazdeyasnan_Shawn_CV.out' has not changed.
-(rerunfilecheck)             Checksum: D355974A493CABCF99F4B9509FC18CF8;2016.
+(rerunfilecheck)             Checksum: 58EE163AA4FF60B5E34F79A6F3891018;1888.
  ) 
 Here is how much of TeX's memory you used:
- 14007 strings out of 476025
- 243080 string characters out of 5790017
- 1873388 words of memory out of 5000000
- 34262 multiletter control sequences out of 15000+600000
+ 14004 strings out of 476025
+ 243052 string characters out of 5790017
+ 1875388 words of memory out of 5000000
+ 34260 multiletter control sequences out of 15000+600000
  518209 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,67p,1209b,606s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,11n,67p,1209b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fo
 ntawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts
@@ -562,10 +568,10 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 185202 bytes).
+Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 184914 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
