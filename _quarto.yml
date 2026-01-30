@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Shawn S. Mazdeyasnan"
+  google-analytics: "G-36FQ3DG6HC"
   favicon: external_docs/images/uga_bulldog.png
+  
   navbar:
     background: "#777777"
     left:
@@ -27,7 +29,7 @@ website:
         href: https://github.com/shawnmazdey
   search: false
   page-footer:
-    left: "Copyright © 2025 - Shawn S. Mazdeyasnan"
+    left: "Copyright © 2026 - Shawn S. Mazdeyasnan"
     right: "University of Georgia - Political Science and International Affairs"
       
 

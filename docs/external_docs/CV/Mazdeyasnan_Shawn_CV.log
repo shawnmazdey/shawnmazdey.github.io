@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  4 JAN 2026 22:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.19)  14 JAN 2026 12:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -561,26 +561,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 373--373
  []
 
 [3]
-Underfull \hbox (badness 1009) in paragraph at lines 399--399
+Underfull \hbox (badness 1009) in paragraph at lines 400--400
 []|\OT1/cmr/bx/n/12 Scholarship for Po-lit-i-cal Sci-ence Re-search\OT1/cmr/m/n
 /12 , ICPSR Sum-mer Pro-gram,
  []
 
 [4{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}] [5] [6] (./Mazdeyasnan_Shawn_CV.aux)
-
-Package rerunfilecheck Warning: File `Mazdeyasnan_Shawn_CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Mazdeyasnan_Shawn_CV.out':
-(rerunfilecheck)             Before: F2C67FAC70599EB9978149CA61B03BB2;2160
-(rerunfilecheck)             After:  E1A7ECB676C49B942322067CDC574C66;2160.
+}] [5] [6] [7] (./Mazdeyasnan_Shawn_CV.aux)
+Package rerunfilecheck Info: File `Mazdeyasnan_Shawn_CV.out' has not changed.
+(rerunfilecheck)             Checksum: E1A7ECB676C49B942322067CDC574C66;2160.
  ) 
 Here is how much of TeX's memory you used:
- 14011 strings out of 476025
- 243104 string characters out of 5790017
- 1874388 words of memory out of 5000000
+ 14012 strings out of 476025
+ 243110 string characters out of 5790017
+ 1875388 words of memory out of 5000000
  34266 multiletter control sequences out of 15000+600000
  518209 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -598,10 +592,10 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb>
-Output written on Mazdeyasnan_Shawn_CV.pdf (6 pages, 186377 bytes).
+Output written on Mazdeyasnan_Shawn_CV.pdf (7 pages, 187102 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
