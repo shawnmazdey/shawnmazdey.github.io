@@ -18,6 +18,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+      - href: professional.qmd
+        text: Professional Experience
       - href: contact.qmd
         text: Contact
     right:
