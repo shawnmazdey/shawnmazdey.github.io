@@ -4,15 +4,17 @@ title: ""
 
 ## Teaching
 
-#### [**University of Georgia**]{.underline}
+### [**University of Georgia**]{.underline}
 
-##### *Department of International Affairs Instructor of Record*
+#### ***Department of International Affairs***
 
--   INTL 4295 War and Human Security
+##### [*Instructor of Record*]{.underline}
 
-    -   Fall 2025
+-   INTL 4295 War and Human Security -  [(Syllabus)](https://shawnmazdey.github.io/external_docs/Syllabi/INTL_4295_Syllabus_Fall_2025.pdf)
 
-##### *Department of International Affairs Graduate Teaching Assistant*
+    -   Fall 2025 <br> <br>
+
+##### [*Teaching Assistant*]{.underline}
 
 -   INTL 3200 Introduction to International Relations
 
@@ -40,19 +42,21 @@ title: ""
 
     -   Eli Sperling: Summer 2025 <br> <br>
 
+### [**University of Michigan**]{.underline}
 
+#### ***Inter-University Consortium for Social and Political Research (ICPSR) Summer Program***
 
-#### [**University of Michigan**]{.underline}
-
-##### *Inter-University Consortium for Social and Political Research (ICPSR) Summer Program Teaching Assistant*
+##### [*Teaching Assistant*]{.underline}
 
 -   Maximum Likelihood Estimation II
 
     -   Desmond Wallace: Summer 2024 <br> <br>
 
-#### [**San Diego State University**]{.underline}
+### [**San Diego State University**]{.underline}
 
-##### *Department of International Security and Conflict Resolution (ISCOR) Undergraduate/Graduate Teaching Assistant*
+#### ***Department of International Security and Conflict Resolution (ISCOR)***
+
+##### [*Teaching Assistant*]{.underline}
 
 -   ISCOR 200 Introduction to ISCOR
 
@@ -62,7 +66,7 @@ title: ""
 
     -   G. Allen Greb: Spring 2015
 
--   ISCOR 310 Our Global Future
+-   ISCOR 310 Our Global Future: Values for Survival
 
     -   David Larom: Spring 2017
 
@@ -70,9 +74,11 @@ title: ""
 
     -   G. Allen Greb: Spring 2018, Fall 2017, Spring 2017, Spring 2016, Fall 2015, Spring 2014, Spring 2013 <br> <br>
 
-##### *Department of Political Science Undergraduate/Graduate Teaching Assistant*
+#### ***Department of Political Science***
 
--   POLS 101 Introduction to American Politics in Global Perspective
+##### [*Teaching Assistant*]{.underline}
+
+-   POLS 101 Introduction to American Politics in a Global Perspective
 
     -   J.T. Smith: Fall 2017, Spring 2017
 
@@ -86,6 +92,6 @@ title: ""
 
     -   Carole Kennedy: Spring 2016, Fall 2015
 
--   POLS 375 Introduction to International Relations
+-   POLS 375 International Relations
 
     -   G. Allen Greb: Fall 2013, Fall 2012
