@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Shawn S. Mazdeyasnan"
-  google-analytics: "G-36FQ3DG6HC"
+#  google-analytics: "G-36FQ3DG6HC"
   favicon: external_docs/images/uga_bulldog.png
   
   navbar:
@@ -44,6 +44,5 @@ format:
     mainfont: Georgia
     css: styles.css
     toc: false
-
-
+    include-in-header: privacy-consent.html
 
