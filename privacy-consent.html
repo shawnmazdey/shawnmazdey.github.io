@@ -44,16 +44,14 @@ window.silktideConsentManager.init({
       gtag: "analytics_storage",
       scripts: [
         {
-          url: "https://www.googletagmanager.com/gtag/js?id=G-36FQ3DG6HC",
+          url: "https://www.googletagmanager.com/gtm.js?id=GTM-KTBV55Q",
           load: "async"
         }
       ],
       onAccept: function() {
-        // Google Analytics 4 (G-36FQ3DG6HC)
+        // Google Tag Manager (GTM-KTBV55Q)
         window.dataLayer = window.dataLayer || [];
-        function gtag() { window.dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-36FQ3DG6HC');
+        window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
       }
     },
     {
@@ -68,16 +66,14 @@ window.silktideConsentManager.init({
       ],
       scripts: [
         {
-          url: "https://www.googletagmanager.com/gtag/js?id=G-36FQ3DG6HC",
+          url: "https://www.googletagmanager.com/gtm.js?id=GTM-KTBV55Q",
           load: "async"
         }
       ],
       onAccept: function() {
-        // Google Analytics 4 (G-36FQ3DG6HC)
+        // Google Tag Manager (GTM-KTBV55Q)
         window.dataLayer = window.dataLayer || [];
-        function gtag() { window.dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-36FQ3DG6HC');
+        window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
       }
     }
   ],
